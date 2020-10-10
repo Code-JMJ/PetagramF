@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_marrginn">16dp</dimen>
+    <dimen name="nombre_mascota">32dp</dimen>
+    <dimen name="top">20dp</dimen>
+    <dimen name="left">20dp</dimen>
+    <dimen name="elevacion_actionbar">4dp</dimen>
+    <dimen name="corner_radius_cardview">4dp</dimen>
+    <dimen name="dcvnombre">20dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+</resources>

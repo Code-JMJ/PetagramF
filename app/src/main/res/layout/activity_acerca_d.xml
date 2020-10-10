@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AcercaD">
+
+    <include android:id="@+id/my_toolbar"
+        layout="@layout/actionbar">
+    </include>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintEnd_toStartOf="parent"
+        android:layout_below='@+id/my_toolbar'>
+
+        <TextView
+            android:id="@+id/tvAcercaD"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="@dimen/left"
+            android:text="@string/acerca_de"
+            android:textColor="#106F9A"
+            android:textSize="24sp"
+            android:textStyle="bold|italic" />
+    </LinearLayout>
+
+</RelativeLayout>

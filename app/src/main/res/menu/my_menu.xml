@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/action_favorite"
+        android:icon="@drawable/estrellita5"
+        android:title="@string/action_favorita"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/action_contacto"
+        android:title="@string/action_contacto"
+        android:orderInCategory="100"/>
+
+    <item
+        android:id="@+id/action_acercade"
+        android:title="@string/action_acercade"
+        android:orderInCategory="101"/>
+
+</menu>

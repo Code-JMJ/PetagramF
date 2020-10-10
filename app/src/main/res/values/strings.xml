@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">PetagramF</string>
+    <string name="pnombre">Nombre</string>
+    <string name="title_activity_priueba">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="action_favorita">Fovoritos</string>
+    <string name="action_contacto">Contacto</string>
+    <string name="nombre_contacto">Nombre</string>
+    <string name="email_contacto">Correo Electrónico</string>
+    <string name="comentario_contacto">Comentario</string>
+    <string name="btn_env_coment">Enviar Comentario</string>
+    <string name="action_acercade">Acerca de</string>
+
+    <string name="acerca_de"> Implementando Fragment y menús,\n ;)\n
+            !!!
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="num_like">4</string>
+    <string name="nombre_prueba">Pink</string>
+
+
+</resources>
